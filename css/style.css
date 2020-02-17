@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://media.istockphoto.com/vectors/seamless-vector-geometric-golden-line-pattern-abstract-background-vector-id860606472?b=1&k=6&m=860606472&s=612x612&h=g815aMjVfCGC5XQLhr4oAoDiSY6d9L6UL2cp-LKV7rw=);
+    margin: 0 25px;
+    line-height: 35px;
+    font-family: 'Abel', sans-serif;
+    font-size: large;
+    /* font-family: 'Lobster', cursive; */
+    /* font-family: 'Righteous', cursive; */
+    /* font-family: 'Prompt', sans-serif; */
+    /* font-family: 'Modak', cursive; */
+}
+
+header{
+    background-image: url(https://cdn.hipwallpaper.com/i/57/76/CRmW7l.jpg);
+    height: 100px;
+    margin-top: 0px;
+    width: 100%;
+    opacity: .9;
+}
+
+main{
+    margin-top: 130px;
+}
+
+img{
+    width: 120px;
+    height: 150px;
+    margin: 30px 0 0 50px;
+    border-radius: 50%;
+    opacity: 0.99;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    margin: 50px auto;
+}
+
+h3{
+    font-size: 25px;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+b{
+    padding: 5px auto;
+    margin: 20px auto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+li{
+    margin:5px 10px;
+    font-size: 16px;
+    list-style: circle;
+}
+
+p{
+    font-size: 20px;
+}
