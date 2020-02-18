@@ -31,7 +31,7 @@ header{
 
 main{
     margin: 250px 25px 0px 25px;
-    height: 1000px;
+    height: 1200px;
 }
 
 img{
@@ -53,7 +53,7 @@ h1{
 
 h3{
     font-size: 25px;
-    margin: 10px auto;
+    margin: 20px auto;
     font-weight: bold;
 }
 
@@ -64,10 +64,17 @@ b{
     font-size: 20px;
 }
 
+ul{
+    list-style: circle;
+}
+
+ol{
+    list-style: decimal;
+}
+
 li{
     margin:5px 10px;
     font-size: 16px;
-    list-style: circle;
 }
 
 p{
@@ -79,11 +86,22 @@ p{
     float: right;
     margin-top: 50px;
     margin-right: 265px;
+}
 
+#black{
+    color: black;
+}
+
+#magenta{
+    color: magenta;
+}
+
+#indian{
+    color: indianred;
 }
 
 footer {
-    margin-top: 50px;
+    margin-top: 400px;
     background-color: #222;
     width: 100%;
     color: white;
