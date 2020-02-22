@@ -20,7 +20,7 @@ header{
     background-image: url("header.png");
     height: 100px;
     /* margin-top: 0px; */
-    width: 100%;
+    /* width: 100%; */
     opacity: .99;
     margin: 0px auto;
     /* box-shadow: 5px 5px 5px 5px #222; */
